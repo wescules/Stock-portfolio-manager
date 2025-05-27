@@ -15,14 +15,6 @@ A detailed and robust Python library for managing stock and equity portfolios wi
 - 📦 Clean, modular structure — easy to integrate into larger apps
 
 ---
-
-## 📦 Installation
-
-Clone this repository or install it as a module:
-
-```bash
-pip install tickie
-```
 🛠️ Usage Example
 python
 ```
